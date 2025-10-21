@@ -1,4 +1,2 @@
 # Z1947101723.github.io
-This is a website. It's a totally random website. Don't mind this.
-hi
-"erm what the skibidi toilet" is my lil sister's fav phrase
+My first website :D, I'm going to find out how to programme then make a project. It's about encryption. I think it's better than AES-256. I'm not sure though. I actually have no idea. I hope it is though. Anyways the project will help me to do my encryption. The encryption uses multiple keys instead of one, which is cool. Anyways this page is only for me and I don't expect anyone else to even find this website. If some really has ,though, then I have one message for you. Hi.
